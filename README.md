@@ -1,50 +1,28 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="Rakibul Islam - Web Developer & Designer" width="100%">
-</p>
+### Hi there 👋, Rakibul Islam
+#### Web Devoloper
+![Web Devoloper](https://github.com/RafanRakib1/RafanRakib1/blob/main/web%20dd.jpg)
 
-<h1 align="center">Hi, I'm Rakibul Islam! 👋</h1>
-<p align="center">
-  💻 Web Developer & Designer | 🚀 Passionate about crafting digital experiences
-</p>
+Hi, I'm Rakibul Islam, a passionate Web Developer & Designer with a strong background in building modern, user-friendly, and high-performance websites. I specialize in front-end and back-end development, crafting responsive designs, and optimizing sites for SEO and speed.
 
----
+Skills:  REACT / JS / HTML / CSS / Wordpress
 
-### 💡 About Me
-- 🔹 **Tech Stack:** React, Node.js, Laravel, WordPress, Shopify
-- 🔹 **Interests:** UI/UX, performance optimization, open-source
-- 🔹 🌱 **Currently Learning:** Advanced JavaScript, Cloud Deployment
+- 🔭 I’m currently working on SparrowTech 
+- 🌱 I’m currently learning java 
+- 📫 How to reach me: rakibt947@gmail.com 
+- ⚡ Fun fact: i love you ha ha ha  
 
----
 
-### 📬 Let's Connect!
-<p align="center">
-  <a href="https://github.com/yourgithub" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ff4088?style=for-the-badge&logo=web&logoColor=white" />
-  </a>
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='5'>](https://github.com/RafanRakib1)  
 
----
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithub&theme=dark" alt="GitHub Streak" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=RafanRakib1)](https://github.com/ryo-ma/github-profile-trophy)
 
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafanRakib1)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🏆 Top Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,laravel,wordpress,shopify,figma" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RafanRakib1&show_icons=true&count_private=true)  
 
----
+![GitHub metrics](https://metrics.lecoq.io/RafanRakib1)  
 
-⭐️ **Thanks for visiting! Feel free to explore my repos and connect!** 🚀
+![GitHub streak stats](https://streak-stats.demolab.com/?user=RafanRakib1)  
+
